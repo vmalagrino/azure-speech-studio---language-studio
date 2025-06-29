@@ -10,7 +10,7 @@ Realizar login através do link: [login](speech.microsoft.com/portal)
 
 # Azure Language Studio
 
-Realiza o processamento de linguagem natural, através de textos, mensagens e fala.
+Realiza o processamento de linguagem natural, através de textos, mensagens e fala com suporte para mais de cem idiomas.
 
 ## Utilidades
 

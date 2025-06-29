@@ -4,7 +4,7 @@ O Azure Speech Studio, é uma ferramenta baseada em nuvem que permite criar solu
 
 ## Utilidades
 
-Transcrever ligações em call center, reuniões de equipe, gerar legendas em vídeos, gerar áudios automatizados respondendo dúvidas reccorentes de clientes com vozes personalidas (entonação, pausa e ênfase)
+Transcrever ligações em call center, reuniões de equipe, gerar legendas em vídeos, gerar áudios automatizados respondendo dúvidas reccorentes de clientes com vozes personalidas (entonação, pausa e ênfase).
 
 Realizar login através do link: [login](speech.microsoft.com/portal)
 
